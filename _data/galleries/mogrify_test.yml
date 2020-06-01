@@ -1,0 +1,25 @@
+picture_path: sun_photos/mogrify_out
+pictures:
+- filename: copy2-sctest
+  original: copy2-sctest-1600x2133.jpeg
+  sizes:
+  - copy2-sctest-1366x1821.jpeg
+  - copy2-sctest-1920x2560.jpeg
+  - copy2-sctest-640x853.jpeg
+  thumbnail: copy2-sctest-640x853.jpeg
+  title: Santa Cruz sunrise 1
+  caption: taken on a run
+- filename: copy-sctest
+  original: copy-sctest-1600x2133.jpeg
+  sizes:
+  - copy-sctest-1366x1821.jpeg
+  - copy-sctest-1920x2560.jpeg
+  - copy-sctest-640x853.jpeg
+  thumbnail: copy-sctest-640x853.jpeg
+- filename: sctest
+  original: sctest-1920x2560.jpeg
+  sizes:
+  - sctest-1366x1821.jpeg
+  - sctest-640x853.jpeg
+  - sctest-1600x2133.jpeg
+  thumbnail: sctest-1600x2133.jpeg

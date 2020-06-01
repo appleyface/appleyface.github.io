@@ -1,0 +1,36 @@
+picture_path: sun_photos
+pictures:
+- filename: santa_cruz_sunrise2.jpe
+  original: santa_cruz_sunrise2.jpe-768x1024.jpeg
+  title: Sunrise in Santa Cruz
+  caption: Taken on a morning run
+  sizes: []
+  thumbnail: santa_cruz_sunrise2.jpe-768x1024.jpeg
+- filename: santa_monica_sunset1_ucla_recruitment.jpe
+  original: santa_monica_sunset1_ucla_recruitment.jpe-1024x768.jpeg
+  sizes: []
+  thumbnail: santa_monica_sunset1_ucla_recruitment.jpe-1024x768.jpeg
+- filename: santa_cruz_sunrise3.jpe
+  original: santa_cruz_sunrise3.jpe-768x1024.jpeg
+  sizes: []
+  thumbnail: santa_cruz_sunrise3.jpe-768x1024.jpeg
+- filename: santa_monica_sunset1_rostdam.jpe
+  original: santa_monica_sunset1_rostdam.jpe-768x1024.jpeg
+  sizes: []
+  thumbnail: santa_monica_sunset1_rostdam.jpe-768x1024.jpeg
+- filename: santa_cruz_sunrise4.jpe
+  original: santa_cruz_sunrise4.jpe-768x1024.jpeg
+  sizes: []
+  thumbnail: santa_cruz_sunrise4.jpe-768x1024.jpeg
+- filename: santa_cruz_sunrise1.jpe
+  original: santa_cruz_sunrise1.jpe-768x1024.jpeg
+  sizes: []
+  thumbnail: santa_cruz_sunrise1.jpe-768x1024.jpeg
+- filename: santa_monica_sunset2_ucla_recruitment.jpe
+  original: santa_monica_sunset2_ucla_recruitment.jpe-1024x768.jpeg
+  sizes: []
+  thumbnail: santa_monica_sunset2_ucla_recruitment.jpe-1024x768.jpeg
+- filename: santa_monica_sunset2_rostdam.jpe
+  original: santa_monica_sunset2_rostdam.jpe-768x1024.jpeg
+  sizes: []
+  thumbnail: santa_monica_sunset2_rostdam.jpe-768x1024.jpeg

@@ -1,0 +1,11 @@
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+}
+
+/* Cover Image */
+.hero {
+  background: url('../assets/clifford_attractors/FantasticFox1.white.bg.circle.png');
+}
+

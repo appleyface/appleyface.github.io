@@ -1,0 +1,85 @@
+picture_path: mogrify_output
+pictures:
+- filename: santa_monica_sunset1_ucla_recruitment
+  original: santa_monica_sunset1_ucla_recruitment-1600x1200.jpeg
+  sizes:
+  - santa_monica_sunset1_ucla_recruitment-1366x1025.jpeg
+  - santa_monica_sunset1_ucla_recruitment-1920x1440.jpeg
+  - santa_monica_sunset1_ucla_recruitment-640x480.jpeg
+  - santa_monica_sunset1_ucla_recruitment-768x576.jpeg
+  - santa_monica_sunset1_ucla_recruitment-1024x768.jpeg
+  thumbnail: santa_monica_sunset1_ucla_recruitment-1024x768.jpeg
+  title: UCLA Bioinformatics Recruitment Sunset, 1 
+  caption: Taken near Santa Monica, prior to taco dinner at professor's house
+
+- filename: santa_monica_sunset1_rostdam
+  original: santa_monica_sunset1_rostdam-1600x2133.jpeg
+  sizes:
+  - santa_monica_sunset1_rostdam-1024x1365.jpeg
+  - santa_monica_sunset1_rostdam-768x1024.jpeg
+  - santa_monica_sunset1_rostdam-640x853.jpeg
+  - santa_monica_sunset1_rostdam-1366x1821.jpeg
+  - santa_monica_sunset1_rostdam-1920x2560.jpeg
+  thumbnail: santa_monica_sunset1_rostdam-640x853.jpeg
+  title: Rostam at Santa Monica Pier Concerts 
+  caption: Taken near Santa Monica Pier prior to hearing Rostam for the first time (heard him live before over audio)
+
+- filename: santa_cruz_sunrise1
+  original: santa_cruz_sunrise1-1920x2560.jpeg
+  sizes:
+  - santa_cruz_sunrise1-1366x1821.jpeg
+  - santa_cruz_sunrise1-640x853.jpeg
+  - santa_cruz_sunrise1-768x1024.jpeg
+  - santa_cruz_sunrise1-1024x1365.jpeg
+  - santa_cruz_sunrise1-1600x2133.jpeg
+  thumbnail: santa_cruz_sunrise1-1600x2133.jpeg
+  title: Santa Cruz Sunrise, 1
+  caption: Taken  on a sunrise run on W Cliff Drive...the most beautiful run I've ever lived 
+
+- filename: santa_cruz_sunrise3
+  original: santa_cruz_sunrise3-1920x2560.jpeg
+  sizes:
+  - santa_cruz_sunrise3-1600x2133.jpeg
+  - santa_cruz_sunrise3-1366x1821.jpeg
+  - santa_cruz_sunrise3-1024x1365.jpeg
+  - santa_cruz_sunrise3-640x853.jpeg
+  - santa_cruz_sunrise3-768x1024.jpeg
+  thumbnail: santa_cruz_sunrise3-768x1024.jpeg
+  title: Santa Cruz Sunrise, 2
+  caption: Taken  on a sunrise run on W Cliff Drive...the most beautiful run I've ever lived
+
+- filename: santa_monica_sunset2_ucla_recruitment
+  original: santa_monica_sunset2_ucla_recruitment-1920x1440.jpeg
+  sizes:
+  - santa_monica_sunset2_ucla_recruitment-1600x1200.jpeg
+  - santa_monica_sunset2_ucla_recruitment-768x576.jpeg
+  - santa_monica_sunset2_ucla_recruitment-640x480.jpeg
+  - santa_monica_sunset2_ucla_recruitment-1366x1025.jpeg
+  - santa_monica_sunset2_ucla_recruitment-1024x768.jpeg
+  thumbnail: santa_monica_sunset2_ucla_recruitment-1024x768.jpeg
+  title: UCLA Bioinformatics Recruitment Sunset, 2
+  caption: Taken near Santa Monica, prior to taco dinner at professor's house
+
+- filename: santa_cruz_sunrise4
+  original: santa_cruz_sunrise4-1920x2560.jpeg
+  sizes:
+  - santa_cruz_sunrise4-1600x2133.jpeg
+  - santa_cruz_sunrise4-640x853.jpeg
+  - santa_cruz_sunrise4-1024x1365.jpeg
+  - santa_cruz_sunrise4-768x1024.jpeg
+  - santa_cruz_sunrise4-1366x1821.jpeg
+  thumbnail: santa_cruz_sunrise4-1366x1821.jpeg
+  title: Santa Cruz Sunrise, 3
+  caption: Taken  on a sunrise run on W Cliff Drive...the most beautiful run I've ever lived
+
+- filename: santa_cruz_sunrise2
+  original: santa_cruz_sunrise2-1920x2560.jpeg
+  sizes:
+  - santa_cruz_sunrise2-1600x2133.jpeg
+  - santa_cruz_sunrise2-1024x1365.jpeg
+  - santa_cruz_sunrise2-1366x1821.jpeg
+  - santa_cruz_sunrise2-640x853.jpeg
+  - santa_cruz_sunrise2-768x1024.jpeg
+  thumbnail: santa_cruz_sunrise2-768x1024.jpeg
+  title: Santa Cruz Sunrise, 4
+  caption: Taken  on a sunrise run on W Cliff Drive...the most beautiful run I've ever lived

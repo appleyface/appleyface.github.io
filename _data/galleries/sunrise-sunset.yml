@@ -1,0 +1,27 @@
+picture_path: sun_photos2
+pictures:
+- filename: santa_cruz_sunrise2.jpe
+  original: santa_cruz_sunrise2.jpe-768x1024.jpg
+  sizes:
+  - santa_cruz_sunrise2.jpe-703x937.jpg
+  - santa_cruz_sunrise2.jpe-498x664.jpg
+  - santa_cruz_sunrise2.jpe-766x1021.jpg
+  - santa_cruz_sunrise2.jpe-200x267.jpg
+  - santa_cruz_sunrise2.jpe-412x549.jpg
+  - santa_cruz_sunrise2.jpe-573x764.jpg
+  - santa_cruz_sunrise2.jpe-641x855.jpg
+  - santa_cruz_sunrise2.jpe-321x428.jpg
+  thumbnail: santa_cruz_sunrise2.jpe-321x428.jpg
+- filename: santa_cruz_sunrise1.jpe
+  original: santa_cruz_sunrise1.jpe-762x1016.jpg
+  sizes:
+  - santa_cruz_sunrise1.jpe-757x1009.jpg
+  - santa_cruz_sunrise1.jpe-568x757.jpg
+  - santa_cruz_sunrise1.jpe-768x1024.jpg
+  - santa_cruz_sunrise1.jpe-635x847.jpg
+  - santa_cruz_sunrise1.jpe-321x428.jpg
+  - santa_cruz_sunrise1.jpe-697x929.jpg
+  - santa_cruz_sunrise1.jpe-497x663.jpg
+  - santa_cruz_sunrise1.jpe-200x267.jpg
+  - santa_cruz_sunrise1.jpe-414x552.jpg
+  thumbnail: santa_cruz_sunrise1.jpe-414x552.jpg

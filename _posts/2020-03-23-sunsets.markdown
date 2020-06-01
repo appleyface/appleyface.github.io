@@ -1,0 +1,8 @@
+---
+layout: gallery
+title: Sunset and sunrises
+support: [jquery, gallery]
+---
+Some shoreline sunrises and sunsets captured throughout the past few months. 
+<!--excerpt-->
+{% include gallery-layout.html gallery=site.data.galleries.mogrify_output %}
