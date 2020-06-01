@@ -11,9 +11,9 @@ While preparing for a lab presentation a few weeks ago, I accidentally generated
 
 Although not what I intended, this frightening image helped me gain my 5 minutes of fame on [R Memes for Statistical Fiends](https://www.facebook.com/groups/241640089860882/) + some well-deserved roasting in the comments and got me wandering down the rabbit hole of R-art (apparently there are people who purposefully plot millions of points using ggplot with [stunning results](https://github.com/marcusvolz/mathart?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)).
 
-My goal was to generate a variety of clifford attractors in hopes to eventually piece them together in some kind of mosaic fashion. It would make sense to use colors that already go well together, so I imported the [wesanderson palette package](https://github.com/karthik/wesanderson). 
+My goal was to generate a variety of Clifford attractors in hopes to eventually piece them together in some kind of mosaic fashion. It would make sense to use colors that already go well together, so I imported the [wesanderson palette package](https://github.com/karthik/wesanderson). 
 
-Using the cppFunction provided [here](%28https://fronkonstin.com/2017/11/07/drawing-10-million-points-with-ggplot-clifford-attractors/%29), I generated a separate clifford attractor image in the form of a *.png file for each color in each wes anderson palette.
+Using the cppFunction provided [here](https://fronkonstin.com/2017/11/07/drawing-10-million-points-with-ggplot-clifford-attractors/), I generated a separate clifford attractor image in the form of a *.png file for each color in each wes anderson palette.
 ```
 rm(list=ls())
 library(Rcpp)
