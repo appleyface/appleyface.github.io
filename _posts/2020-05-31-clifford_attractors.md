@@ -13,7 +13,7 @@ Although not what I intended, this frightening image helped me gain my 5 minutes
 
 My goal was to generate a variety of Clifford attractors in hopes to eventually piece them together in some kind of mosaic fashion. It would make sense to use colors that already go well together, so I imported the [wesanderson palette package](https://github.com/karthik/wesanderson). 
 
-Using the cppFunction provided [here](https://fronkonstin.com/2017/11/07/drawing-10-million-points-with-ggplot-clifford-attractors/), I generated a separate clifford attractor image in the form of a *.png file for each color in each wes anderson palette.
+Using the cppFunction provided [here](https://fronkonstin.com/2017/11/07/drawing-10-million-points-with-ggplot-clifford-attractors), I generated a separate clifford attractor image in the form of a *.png file for each color in each wes anderson palette.
 ```
 rm(list=ls())
 library(Rcpp)
