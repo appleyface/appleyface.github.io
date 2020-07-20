@@ -1,0 +1,56 @@
+picture_path: knitting_output
+pictures:
+- filename: IMG_1354
+  original: IMG_1354-1920x2560.jpeg
+  sizes:
+  - IMG_1354-1600x2133.jpeg
+  - IMG_1354-1366x1821.jpeg
+  - IMG_1354-768x1024.jpeg
+  - IMG_1354-640x853.jpeg
+  - IMG_1354-1024x1365.jpeg
+  thumbnail: IMG_1354-1024x1365.jpeg
+- filename: IMG_1362
+  original: IMG_1362-1600x1200.jpeg
+  sizes:
+  - IMG_1362-1024x768.jpeg
+  - IMG_1362-1920x1440.jpeg
+  - IMG_1362-640x480.jpeg
+  - IMG_1362-1366x1025.jpeg
+  - IMG_1362-768x576.jpeg
+  thumbnail: IMG_1362-768x576.jpeg
+- filename: IMG_1353
+  original: IMG_1353-1920x2560.jpeg
+  sizes:
+  - IMG_1353-1600x2133.jpeg
+  - IMG_1353-1024x1365.jpeg
+  - IMG_1353-768x1024.jpeg
+  - IMG_1353-640x853.jpeg
+  - IMG_1353-1366x1821.jpeg
+  thumbnail: IMG_1353-1366x1821.jpeg
+- filename: IMG_1391
+  original: IMG_1391-1366x1821.jpeg
+  sizes:
+  - IMG_1391-768x1024.jpeg
+  - IMG_1391-640x853.jpeg
+  - IMG_1391-1600x2133.jpeg
+  - IMG_1391-1024x1365.jpeg
+  - IMG_1391-1920x2560.jpeg
+  thumbnail: IMG_1391-640x853.jpeg
+- filename: IMG_1691
+  original: IMG_1691-1920x4993.jpeg
+  sizes:
+  - IMG_1691-1600x4161.jpeg
+  - IMG_1691-768x1997.jpeg
+  - IMG_1691-640x1664.jpeg
+  - IMG_1691-1024x2663.jpeg
+  - IMG_1691-1366x3552.jpeg
+  thumbnail: IMG_1691-1366x3552.jpeg
+- filename: IMG_1341
+  original: IMG_1341-1366x1025.jpeg
+  sizes:
+  - IMG_1341-768x576.jpeg
+  - IMG_1341-640x480.jpeg
+  - IMG_1341-1600x1200.jpeg
+  - IMG_1341-1024x768.jpeg
+  - IMG_1341-1920x1440.jpeg
+  thumbnail: IMG_1341-640x480.jpeg

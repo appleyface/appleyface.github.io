@@ -1,0 +1,8 @@
+---
+layout: gallery
+title: Knitting grandma
+support: [jquery, gallery]
+---
+One of my quarantine hobbies: knitting lumpy pieces that have varying degrees of functionality<!--excerpt--> while watching TV. The ideal project is one that doesn't require much attention but still makes me feel like I'm accomplishing something. 
+
+{% include gallery-layout.html gallery=site.data.galleries.knitting_output %}

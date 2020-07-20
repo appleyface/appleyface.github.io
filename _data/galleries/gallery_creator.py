@@ -11,9 +11,9 @@ from os import listdir, rename
 from os.path import isfile, join
 
 # configuration
-output_file = "mogrify_output.yml"  ### MODIFY THIS LINE
+output_file = "knitting_output.yml"  ### MODIFY THIS LINE
 input_file = output_file
-image_path = "mogrify_output" ## MODIFY THIS LINE
+image_path = "knitting_output" ## MODIFY THIS LINE
 extensions= ['jpg', 'png','jpeg']
 
 # set correct path
